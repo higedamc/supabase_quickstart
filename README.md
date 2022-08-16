@@ -1,6 +1,6 @@
-# supabase_quickstart
+# What is this?
 
-A new Flutter project.
+Flutter x Supabase Hands-On Projject.
 
 ## Getting Started
 
